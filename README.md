@@ -1,4 +1,4 @@
-# FaithTech Create Template Project
+# MissionHarvest AI
 
 Tagline for the project
 
