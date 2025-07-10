@@ -12,8 +12,6 @@ Other 4D cycle badges
 ![Demonstrate](https://badgen.net/badge/stage/demonstrate/green)
 -->
 
-# MissionHarvest AI
-
 ## What is it?
 
 **MissionHarvest AI** is an open-source, self-hostable AI tool designed to help disciple-making ministries securely process, analyze, and share text-based testimonies from the mission field. It enables responsible storytelling that catalyzes prayer, vision casting, and movement growth—while protecting people and places involved in sensitive work.
