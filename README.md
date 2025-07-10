@@ -1,6 +1,6 @@
 # MissionHarvest AI
 
-Tagline for the project
+Harvesting Stories, Protecting the Field.
 
 ![MIT License](https://badgen.net/badge/license/MIT/blue)
 ![Discover](https://badgen.net/badge/stage/discover/orange)
@@ -12,7 +12,45 @@ Other 4D cycle badges
 ![Demonstrate](https://badgen.net/badge/stage/demonstrate/green)
 -->
 
-Overview of the project.
+# MissionHarvest AI
+
+## What is it?
+
+**MissionHarvest AI** is an open-source, self-hostable AI tool designed to help disciple-making ministries securely process, analyze, and share text-based testimonies from the mission field. It enables responsible storytelling that catalyzes prayer, vision casting, and movement growth—while protecting people and places involved in sensitive work.
+
+## The Problem
+
+Ministry organisations collect powerful testimonies, but due to the risk of surveillance, persecution, or misinformation, they often cannot share these stories beyond their internal networks. This limits their ability to inspire supporters, mobilize prayer, or show impact. Manual editing is time-consuming and error-prone, and storing raw stories in general-purpose platforms risks exposure.
+
+## The Solution
+
+**MissionHarvest AI** solves these problems by:
+
+- Automatically anonymizing sensitive details in text-based reports.
+- Generating headlines, short summaries, and spiritual calls-to-action like *“Pray for this village”* or *“Give thanks for this new church.”*
+- Tagging each story with custom ministry categories (e.g. *Humanitarian Aid*, *Bible Distribution*, *Helping Children*).
+- Extracting basic analytics such as number of people reached, baptisms mentioned, or discipleship growth.
+
+## Who It’s For
+
+Ministry organizations such as **Biglife**, and others involved in **Disciple-Making Movements (DMM)**, who need a safe and secure way to process and share field reports.
+
+## Why It Matters
+
+By making stories secure and structured, ministries can:
+
+- Inspire more prayer and support across their networks.
+- Report impact without compromising safety.
+- Save time and reduce human error in sensitive communications.
+- Promote a healthy culture of sharing testimonies that align with **Disciple-Making Movement (DMM)** values.
+
+## Target Users
+
+- Mission organizations and field teams  
+- Disciple-making ministries  
+- Church planting networks  
+- Donor or prayer coordinators  
+- Communication teams focused on security
 
 ## 📋 Requirements
 
