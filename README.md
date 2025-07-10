@@ -50,6 +50,10 @@ By making stories secure and structured, ministries can:
 - Donor or prayer coordinators  
 - Communication teams focused on security
 
+## Deployment Model
+This project develops the open source components only. It does not provide a central platform or cloud service. Each ministry organization is responsible for hosting, configuring, and operating their own instance of MissionHarvest AI based on their own infrastructure and security needs.
+
+
 ## 📋 Requirements
 
 Details on prerequisites and requirements for setting up the development environment.
