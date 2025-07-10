@@ -31,7 +31,7 @@ Ministry organisations collect powerful testimonies, but due to the risk of surv
 
 ## Who It’s For
 
-Ministry organizations such as **Biglife**, and others involved in **Disciple-Making Movements (DMM)**, who need a safe and secure way to process and share field reports.
+Ministry organizations and others involved in **Disciple-Making Movements (DMM)**, who need a safe and secure way to process and share field reports.
 
 ## Why It Matters
 
